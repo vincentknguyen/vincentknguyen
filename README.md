@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vincentknguyen
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and software development
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: 
 
