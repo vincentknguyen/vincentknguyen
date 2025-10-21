@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vincentknguyen
-- 👀 I’m interested in data science and actuarial
+- 👀 I’m interested in data science and actuarial science
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: vincentknguyen@gmail.com
 
